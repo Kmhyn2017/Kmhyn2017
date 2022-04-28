@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+![C++](https://img.shields.io/badge/-C%2B%2B-blue?logo=appveyor)
+
+
 <!--
 **Kmhyn2017/Kmhyn2017** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
