@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![C++](https://img.shields.io/badge/-C++-00599C-C%2B%2B-blue#00599C)
+![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c++)
 ![C#](https://img.shields.io/badge/-C%23-brightgreen?logo=appveyor)
 ![Javascript](https://img.shields.io/badge/-%20Javascript-yellow?logo=appveyor)
 
