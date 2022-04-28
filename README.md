@@ -3,7 +3,7 @@
 <h2> My tech stack 📚</h2>
   
   
-![C++](https://img.shields.io/badge/?logo=appveyor)
+![C++](https://img.shields.io/badge/-C++-00599C)
 ![C#](https://img.shields.io/badge/-C%23-brightgreen?logo=appveyor)
 ![Javascript](https://img.shields.io/badge/-%20Javascript-yellow?logo=appveyor)
 
