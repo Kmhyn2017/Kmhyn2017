@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+<h2> My tech stack 📚</h2>
+  
+  
 ![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c++)
 ![C#](https://img.shields.io/badge/-C%23-brightgreen?logo=appveyor)
 ![Javascript](https://img.shields.io/badge/-%20Javascript-yellow?logo=appveyor)
